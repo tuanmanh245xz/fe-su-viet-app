@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "770406810130",
+    "project_id": "happysmile-5d6aa",
+    "storage_bucket": "happysmile-5d6aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770406810130:android:d5d194085d2d93a0364ecb",
+        "android_client_info": {
+          "package_name": "com.happysmile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770406810130-ja4npl7toq3hqtp07tglk5oiqto7e46v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6mtD9t8LeB2R2sCR81Zlf0hLHyy0etlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770406810130-ja4npl7toq3hqtp07tglk5oiqto7e46v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "770406810130-bjtlf8dchats09vg1ku43qsmu9sk2d8i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.happysmile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
